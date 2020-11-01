@@ -8,12 +8,12 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 **Nossa meta é entregar um site com capacidade de crescimento, atraindo usuários das mais diversas áreas e tornando a marca de nosso cliente referência no mercado acadêmico.**
 
 ## Integrantes
-- [Gabriel Shishido] (https://github.com/Gabriel-Shishido) - DEV Team
+- [Gabriel Shishido](https://github.com/Gabriel-Shishido) - DEV Team
 - [Debora Conceição Faria](https://github.com/deborafaria01) – DEV Team
 - João Vitor ()
 - [Mariana de Souza Assis](https://github.com/mariana299) - DEV Team
 - Juliana ()
-- [Caio Vendramim] (https://github.com/Tsunoki) - DEV Team
+- [Caio Vendramim](https://github.com/Tsunoki) - DEV Team
 - [Vinicius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso) – Scrum Master
 
 ## Disciplinas Integradas
