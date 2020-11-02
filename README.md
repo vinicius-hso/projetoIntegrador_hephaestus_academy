@@ -43,7 +43,7 @@ Produto de trabalho da fase de testes e planejamento do projeto.
 
 O Plano de Negócios serve como ferramenta de orientação na busca de informações detalhadas sobre o ramo, produtos e serviços que o empreendimento irá oferecer.
 
-![]()
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint0/Plano%20de%20Neg%C3%B3cio.png)
 
 ## Diagrama "Caso de uso"
 
@@ -53,8 +53,8 @@ O diagrama descreve a funcionalidade proposta para o sistema que está sendo pro
 
 ## Mapa de Páginas
 
-![]()
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint0/Mapa%20de%20P%C3%A1ginas-2.png)
 
 ## Personalização "Desconto para usuários"
 
-![]()
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint0/Promo%C3%A7%C3%A3o/Promo%C3%A7%C3%A3o.png)
