@@ -28,8 +28,8 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 ## Cards para as Entregas
 Aqui você pode acompanhar como foi e como está sendo cada umas das entregas.
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_1.png)
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_2.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_01.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_02.png)
 
 - [Cards da Entrega 1 – Sprint 0]( link do card 1 ) - **Data: 27/09/2020**
 - [Cards da Entrega 2 – Sprint 1]( link do card 2 ) - **Data: 17/10/2020**
