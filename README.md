@@ -8,15 +8,16 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 **Nossa meta é entregar um site com capacidade de crescimento, atraindo usuários das mais diversas áreas e tornando a marca de nosso cliente referência no mercado acadêmico.**
 
 ## Integrantes
-- [Gabriel Shishido](https://github.com/Gabriel-Shishido) - DEV Team
+- [Caio Augusto Barbosa Vendramim](https://github.com/Tsunoki) - DEV Team
 - [Debora Conceição Faria](https://github.com/deborafaria01) – DEV Team
-- João Vitor ()
+- [Gabriel Hiromi Shishido](https://github.com/Gabriel-Shishido) - DEV Team
+- [João Vitor Evaristo da Silva]()
+- [Juliana da Glória Francisco](https://github.com/juliana-oss) - DEV Team
 - [Mariana de Souza Assis](https://github.com/mariana299) - DEV Team
-- Juliana ()
-- [Caio Vendramim](https://github.com/Tsunoki) - DEV Team
 - [Vinicius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso) – Scrum Master
 
 ## Disciplinas Integradas
+- Administração Geral - Prof. Cícero Soares da Silva
 - Arquitetura e Organização de Computadores - Prof. Antonio Wellington Sales Rios   
 - Algoritmos e Lógica de Programação - Prof. Fernando Masanori Ashikaga 
 - Laboratório de Hardware - Prof. Antonio Egydio São Thiago Graça
@@ -38,8 +39,8 @@ Aqui você pode acompanhar como foi e como está sendo cada umas das entregas.
 ## Entregas
 As sprints do projeto estão distribuídas em 4 entregas que serão feitas ao longo do semestre.
 
-- [Entrega 1 – Sprint 0]( link pasta sprint0 )
-- [Entrega 2 – Sprint 1]( link pasta sprint1)
+- [Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint0)
+- [Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint1)
 
 ## Product Backlog
 Lista contendo todas as funcionalidades desejadas para o projeto.
@@ -51,12 +52,12 @@ Lista contendo todas as funcionalidades desejadas para o projeto.
 ## Diagrama "Caso de uso"
 O diagrama descreve a funcionalidade proposta para o sistema que está sendo projetado.
 
-![]( link do diagrama caso de uso )
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Diagrama%20caso%20de%20uso.png)
 
 ## Protótipo da Página Inicial
 Produto de trabalho da fase de testes e planejamento do projeto.
 
-![]( prototipo da pagina inicial )
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Pg%20Inicial%20com%20desconto.png)
 
 ## Ferramentas
 Ferramentas e linguagens utilizadas até o presente momento.
