@@ -73,7 +73,7 @@ Ferramentas e linguagens utilizadas até o presente momento.
  
  Ferramentas utilizadas na produção dos vídeos.
  - **OpenShot Video Editor**
- - **oCam***
+ - **oCam**
  - **OBS Studio**
  - **PowerPoint**
  - **iMovie**
