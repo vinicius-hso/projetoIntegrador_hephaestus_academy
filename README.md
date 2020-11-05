@@ -31,10 +31,10 @@ Aqui você pode acompanhar como foi e como está sendo cada umas das entregas.
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_01.png)
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Cards%20Geral_02.png)
 
-- [Cards da Entrega 1 – Sprint 0]( link do card 1 ) - **Data: 27/09/2020**
-- [Cards da Entrega 2 – Sprint 1]( link do card 2 ) - **Data: 17/10/2020**
-- [Cards da Entrega 3 – Sprint 2]( link do card 3) - **Data: 08/11/2020**
-- [Cards da Entrega 4 – Sprint 3]( link do card 4) - **Data: 29/11/2020**
+- [Cards da Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/1) - **Data: 27/09/2020**
+- [Cards da Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/2) - **Data: 17/10/2020**
+- [Cards da Entrega 3 – Sprint 2](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/3) - **Data: 08/11/2020**
+- [Cards da Entrega 4 – Sprint 3](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/4) - **Data: 29/11/2020**
 
 ## Entregas
 As sprints do projeto estão distribuídas em 4 entregas que serão feitas ao longo do semestre.
