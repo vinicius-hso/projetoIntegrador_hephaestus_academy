@@ -4,13 +4,13 @@
 
 Estabelecemos juntamente com a necessidade do cliente, a aplicação do seguinte card.
 
-![]()
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint0/Sprint%200.png)
 
 ## Sprint Backlog
 
 Lista de tarefas da sprint por grau de relevância.
 
-![]()
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint0/sprints_backlog%2000.png)
 
 ## Cards para as Entregas
 
