@@ -4,22 +4,22 @@
 
 Estabelecemos para esta entrega, a aplicação do seguinte card.
 
-![](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Card-2.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Sprint%201.png)
 
 ## Sprint Backlog
 
 Lista de tarefas da sprint por grau de relevância.
 
-![](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/sprints_backlog.002.jpeg)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/sprints_backlog_01.png)
 
 ## Cards para as Entregas
 
 Aqui você pode acompanhar como foi e como está sendo cada uma das entregas.
 
-- [Cards da Entrega 1 – Sprint 0]( https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/projects/2) - **Data: 27/09/2020**
-- [Cards da Entrega 2 – Sprint 1]( https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/projects/1) - **Data: 17/10/2020**
-- [Cards da Entrega 3 – Sprint 2]( https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/projects/3) - **Data: 08/11/2020**
-- [Cards da Entrega 4 – Sprint 3](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/projects/4) - **Data: 29/11/2020**
+- [Cards da Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/1) - **Data: 27/09/2020**
+- [Cards da Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/2) - **Data: 17/10/2020**
+- [Cards da Entrega 3 – Sprint 2](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/3) - **Data: 08/11/2020**
+- [Cards da Entrega 4 – Sprint 3](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/4) - **Data: 29/11/2020**
 
 ## Objetivo
 
