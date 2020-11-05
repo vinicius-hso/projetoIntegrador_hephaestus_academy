@@ -64,4 +64,18 @@ Produto de trabalho da fase de testes e planejamento do projeto.
 Ferramentas e linguagens utilizadas até o presente momento.
 
 - **Draw.io** - Desenvolvimento do protótipo.
-- **HTML** - Desenvolvimento das páginas do site.
+- **HTML** - Front-end web development.
+- **PHP** - Back-end web development.
+- **CSS** - Front-end web development.
+- **JavaScript** - Front-end web development.
+- **XAMPP** - Servidor local. 
+- **MySQL** - Banco de Dados.
+ 
+ Ferramentas utilizadas na produção dos vídeos.
+ - **OpenShot Video Editor**
+ - **oCam***
+ - **OBS Studio**
+ - **PowerPoint**
+ - **iMovie**
+ - **Pages**
+ - **Keynote**
