@@ -16,10 +16,10 @@ Lista de tarefas da sprint por grau de relevância.
 
 Aqui você pode acompanhar como foi e como está sendo cada umas das entregas.
 
-- [Cards da Entrega 1 – Sprint 0]() - **Data: 27/09/2020**
-- [Cards da Entrega 2 – Sprint 1]() - **Data: 17/10/2020**
-- [Cards da Entrega 3 – Sprint 2]() - **Data: 08/11/2020**
-- [Cards da Entrega 4 – Sprint 3]() - **Data: 29/11/2020**
+- [Cards da Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/1) - **Data: 27/09/2020**
+- [Cards da Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/2) - **Data: 17/10/2020**
+- [Cards da Entrega 3 – Sprint 2](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/3) - **Data: 08/11/2020**
+- [Cards da Entrega 4 – Sprint 3](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/4) - **Data: 29/11/2020**
 
 ## Objetivo
 
