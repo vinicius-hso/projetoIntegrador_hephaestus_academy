@@ -67,9 +67,9 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação pel
 
 ![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Gifs/mat_disc_pag01.gif)
 
-[Atalho para a pasta 'Conteúdos em HTML'.]()
+[Atalho para a pasta 'Conteúdos em HTML'.](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint1/Conte%C3%BAdos%20em%20HTML)
 
-[Clique aqui se deseja visualizar os conteúdos e a home page em HTML.]()
+[Clique aqui se deseja visualizar os conteúdos e a home page em HTML.](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint1/Pasta%20compactada%20com%20as%20p%C3%A1ginas%20em%20HTML)
 
 **Obs.: É necessário fazer o download da pasta compactada para visualização das páginas. Clique em 'Páginas em HTML.zip', e depois em 'View raw', e por fim extraia os arquivos após o download.**
 
