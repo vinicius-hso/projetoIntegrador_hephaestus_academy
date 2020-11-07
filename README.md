@@ -62,9 +62,6 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 
 
-[Clique aqui se deseja visualizar as páginas do site implementadas em HTML, JavaScript, CSS E PHP.]()
-
-**Obs.: **
 
 ## Conteúdos Padronizados em Texto 
 
