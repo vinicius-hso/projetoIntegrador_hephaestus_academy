@@ -35,55 +35,51 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação
 - Desenvolvemos as páginas dos conteúdos em HTML.
 - E a home page (página inicial) em HTML, pois avaliamos sua relevância para representar a proficiência no andamento do projeto, permitindo a visibilidade de nosso potencial de implementação de todo o site.
 
-## Home Page em HTML
+## em HTML
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/teste.gif?raw=true)
+![alt-text]()
 
-## Conteúdos em HTML
+## Conteúdos em Vídeo
 
 ### 1. Arquitetura e Organização de Computadores
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/arc_org_pag01.gif)
+![alt-text]()
 
 ### 2. Laboratório de Hardware
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/hardware_pag01.gif)
+![alt-text]()
 
-### 3. Língua Inglesa
+### 3. Língua Portuguesa
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/ingles_pag01.gif)
+![alt-text]()
 
-### 4. Língua Portuguesa
+### 4. Lógica de Programação
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/port_pag01.gif)
+![alt-text]()
 
-### 5. Lógica de Programação
+### 5. Matemática Discreta
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/algo_pag01.gif)
+![alt-text]()
 
-### 6. Matemática Discreta
 
-![alt-text](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/mat_disc_pag01.gif)
 
-[Atalho para a pasta 'Conteúdos em HTML'.](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/tree/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20HTML)
+[Clique aqui se deseja visualizar as páginas do site implementadas em HTML, JavaScript, CSS E PHP.]()
 
-[Clique aqui se deseja visualizar os conteúdos e a home page em HTML.](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/tree/Sprint-1/Sprint%201/Pasta%20compactada%20com%20as%20p%C3%A1ginas%20em%20HTML)
-
-**Obs.: É necessário fazer o download da pasta compactada para visualização das páginas. Clique em 'Páginas em HTML.zip', e depois em 'View raw', e por fim extraia os arquivos após o download.**
+**Obs.: **
 
 ## Conteúdos em Texto
 
-- [Arquitetura e Organização de Computadores](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores.pdf)
+- [Arquitetura e Organização de Computadores]()
 
-- [Laboratório de Hardware](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/Laborat%C3%B3rio%20de%20Hardware.pdf)
+- [Laboratório de Hardware]()
 
-- [Língua Inglesa](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/L%C3%ADngua%20Inglesa.pdf)
+- [Língua Inglesa]()
 
-- [Língua Portuguesa](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/L%C3%ADngua%20Portuguesa.pdf)
+- [Língua Portuguesa]()
 
-- [Lógica de Programação](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)
+- [Lógica de Programação]()
 
-- [Matemática Discreta](https://github.com/AndreSilva358/Hephaestus---Projeto-Integrador/blob/Sprint-1/Sprint%201/Conte%C3%BAdos%20em%20texto/Matem%C3%A1tica%20Discreta.pdf)
+- [Matemática Discreta]()
 
 **Obs.: Os conteúdos em texto podem demorar alguns segundos para abrir, em razão do tamanho do arquivo, ou pode haver algum erro na leitura, porém basta atualizar a página.**
 
