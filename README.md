@@ -23,21 +23,19 @@ Aqui você pode acompanhar como foi e como está sendo cada uma das entregas.
 
 ## Objetivo
 
-Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa: Pontuação, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, o desenvolvimento das páginas de login, registre-se, carrinho de compras e configurações de usuário, assim como a implementação do banco dados proporcionam adicionar itens no carrinho, realizar cadastro de usuários etc., viabilizando o funcionamento do site.
+Nesta terceira fase do projeto, nosso propósito consistiu em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa: Pontuação, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizamos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento integral do site.
 
 ## Aplicação
 
-Com as funcionalidades entregues nessa sprint, será possível a navegação 
+Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário e barra de pesquisa, proporcionando ao nosso cliente total visualização dos itens do carrinho, realização do cadastro de usuários, busca pelos conteúdo de forma prática e muito mais!
 
 ## Valores Entregues
 
-- Para esta entrega, foi priorizado o desenvolvimento de conteúdos em formato de vídeo, para complementar o produto/objeto de comercialização de nosso cliente, agregando mais valor no produto, e atraindo, portanto um maior número de usuários. 
-- Desenvolvemos as páginas dos conteúdos em HTML.
-- E a home page (página inicial) em HTML, pois avaliamos sua relevância para representar a proficiência no andamento do projeto, permitindo a visibilidade de nosso potencial de implementação de todo o site.
+- Para esta entrega, foi priorizado o desenvolvimento de conteúdos em formato de vídeo, para complementar o produto/objeto de comercialização de nosso cliente, agregando mais valor ao produto, e atraindo, portanto um maior número de usuários. 
+- Padronizamos o design e realizamos algumas modificções relacionadas a implementação de mais questões nos conteúdos em pdf já desenvolvidos.
+- Desenvolvemos as páginas de login, registre-se, carrinho de compras e configurações de usuário e as implementamos no site. Proporcionando uma melhor interação e visualização do site que será entregue ao cliente em breve.
+- Foi realizado também a implementação do banco de dados, possibilitando um sistema de armazenamento de informações, mantendo os dados organizados, protegidos, atualizados, acrescentados, excluídos e acessados sempre que necessário, devendo corresponder à demanda que a aplicação exige.
 
-## em HTML
-
-![alt-text]()
 
 ## Conteúdos em Vídeo
 
