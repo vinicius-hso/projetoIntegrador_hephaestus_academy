@@ -1,4 +1,4 @@
-# Projeto Integrador - Equipe Hephaestus
+# Projeto Integrador - Equipe Phoenix
 
 ## Entrega 1 - Sprint 0
 
