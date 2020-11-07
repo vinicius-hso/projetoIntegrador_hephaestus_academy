@@ -77,9 +77,9 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação pel
 
 **1. Arquitetura e Organização de Computadores**
 
-[CPU, memórias e miroprocessadores](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20CPU%2C%20mem%C3%B3rias%20e%20miroprocessadores.pdf)
+[CPU, Memórias e Microprocessadores](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20CPU%2C%20mem%C3%B3rias%20e%20miroprocessadores.pdf)
 
-[ESD e descargas elétricas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20ESD%20e%20descargas%20el%C3%A9tricas.pdf)
+[ESD e Descargas Elétricas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20ESD%20e%20descargas%20el%C3%A9tricas.pdf)
 
 [Sistemas de Numeração](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20Sistemas%20de%20Numera%C3%A7%C3%A3o.pdf)
 
