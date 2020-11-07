@@ -23,7 +23,7 @@ Aqui você pode acompanhar como foi e como está sendo cada uma das entregas.
 
 ## Objetivo
 
-Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa: Pontuação, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizamos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento parcial do site.
+Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizamos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento parcial do site.
 
 ## Aplicação
 
