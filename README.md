@@ -4,7 +4,7 @@
 
 Estabelecemos para esta entrega, a aplicação do seguinte card.
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Sprint%202.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Sprint_02.png)
 
 ## Sprint Backlog
 
