@@ -27,7 +27,7 @@ Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apres
 
 ## Aplicação
 
-Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa, proporcionando ao nosso cliente total visualização dos itens do carrinho, realização de cadastro de usuários e busca pelos conteúdos comercializados com total praticidade.
+Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa, proporcionando ao nosso cliente total visualização dos itens do carrinho, realização de cadastro de usuários, bem como alterações e busca pelos conteúdos comercializados com total praticidade, sendo possível a visualização de todos os conteúdos, com uma breve descrição.
 
 ## Valores Entregues
 
