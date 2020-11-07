@@ -40,33 +40,31 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 ## Conteúdos em Vídeo
 
-### 1. Arquitetura e Organização de Computadores
+**1. Arquitetura e Organização de Computadores**
 
-[Introdução à Arquitetura de Computadores]()
+[Introdução à Arquitetura de Computadores](https://www.youtube.com/watch?v=KS94ZEcHmRc&feature=youtu.be)
 
-[ESD e Descargas Elétricas]()
+[ESD e Descargas Elétricas](https://www.youtube.com/watch?v=rv2nmcJv7Vc&feature=youtu.be)
 
-[Sistemas de Numeração]()
+[Sistemas de Numeração](https://www.youtube.com/watch?v=Ydl22W12Dec&feature=youtu.be)
 
-### 2. Laboratório de Hardware
+**2. Laboratório de Hardware**
 
-[Introdução à Hardware]()
+[Introdução à Hardware](https://www.youtube.com/watch?v=1tLDkNMfSKo&feature=youtu.be)
 
-### 3. Língua Portuguesa
+**3. Língua Portuguesa**
 
-[Pontuação]()
+[Pontuação](https://www.youtube.com/watch?v=cnjdvMpFuIo&feature=youtu.be)
 
-### 4. Lógica de Programação
+**4. Lógica de Programação**
 
-[Reconhecimento de Voz - I.A. em Python]()
+[Reconhecimento de Voz - I.A. em Python](https://www.youtube.com/watch?v=kiK2Ku8L6IY&feature=youtu.be)
 
-[Instalando Python]()
+[Instalando Python](https://www.youtube.com/watch?v=kiK2Ku8L6IY&feature=youtu.be)
 
-### 5. Matemática Discreta
+**5. Matemática Discreta**
 
-[Introdução à Lógica]()
-
-
+[Introdução à Lógica](https://www.youtube.com/watch?v=3bKErh1nQyo&feature=youtu.be)
 
 
 ## Conteúdos Padronizados em Texto 
