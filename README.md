@@ -75,17 +75,37 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação pel
 
 ## Conteúdos em Texto
 
-- [Arquitetura e Organização de Computadores]()
+- **Arquitetura e Organização de Computadores**
 
-- [Laboratório de Hardware]()
+[CPU, memórias e miroprocessadores](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20CPU%2C%20mem%C3%B3rias%20e%20miroprocessadores.pdf)
 
-- [Língua Inglesa]()
+[ESD e descargas elétricas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20ESD%20e%20descargas%20el%C3%A9tricas.pdf)
 
-- [Língua Portuguesa]()
+[Sistemas de Numeração](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/AOC%20-%20Sistemas%20de%20Numera%C3%A7%C3%A3o.pdf)
 
-- [Lógica de Programação]()
+- **Laboratório de Hardware**
 
-- [Matemática Discreta]()
+[Introdução - Hardware](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Hardware%20-%20Hephaestus%20Academy.pdf)
+
+- **Língua Inglesa**
+
+[Introdução - Língua Inglesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Li%CC%81ngua%20Inglesa%20-%20Hephaestus%20Academy.pdf)
+
+- **Língua Portuguesa**
+
+[Concordância](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Concord%C3%A2ncia%20-%20Hephaestus%20Academy.pdf)
+
+[Pontuação](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Pontua%C3%A7%C3%A3o%20-%20Hephaestus%20Academy.pdf)
+
+- **Lógica de Programação**
+
+[Algoritmos e Lógica de Programação](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20-%20Hephaestus%20Academy.pdf)
+
+- **Matemática Discreta**
+
+[Introdução á Grafos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introdu%C3%A7%C3%A3o%20%C3%A1%20Grafos%20-%20Hephaestus%20Academy.pdf)
+
+[Lógica Formal](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/L%C3%B3gica%20Formal%20-%20Hephaestus%20Academy.pdf)
 
 **Obs.: Os conteúdos em texto podem demorar alguns segundos para abrir, em razão do tamanho do arquivo, ou pode haver algum erro na leitura, porém basta atualizar a página.**
 
