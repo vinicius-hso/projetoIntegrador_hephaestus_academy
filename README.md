@@ -1,4 +1,4 @@
-# Projeto Integrador - Equipe Phoenix
+# Projeto Integrador - Hephaestus Academy
 Projeto sendo desenvolvido pelo 1º termo do curso de Análise e Desenvolvimento de Sistemas, FATEC - Faculdade de Tecnologia de São José dos Campos.
 
 ## Objetivo
