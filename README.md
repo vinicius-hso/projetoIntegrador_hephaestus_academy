@@ -60,7 +60,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 [Reconhecimento de Voz - I.A. em Python](https://www.youtube.com/watch?v=kiK2Ku8L6IY&feature=youtu.be)
 
-[Instalando Python](https://www.youtube.com/watch?v=kiK2Ku8L6IY&feature=youtu.be)
+[Instalando Python](https://www.youtube.com/watch?v=vxzpzd0OQ6E&feature=youtu.be)
 
 **5. Matemática Discreta**
 
