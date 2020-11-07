@@ -1,5 +1,4 @@
-# Projeto Integrador - Equipe Phoenix
-
+# Projeto Integrador - Hephaestus Academy
 ## Entrega 1 - Sprint 0
 
 Estabelecemos juntamente com a necessidade do cliente, a aplicação do seguinte card.
