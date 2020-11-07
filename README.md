@@ -1,4 +1,4 @@
-# Projeto Integrador - Equipe Hephaestus
+# Projeto Integrador - Hephaestus Academy
 
 ## Entrega 2 - Sprint 1 
 
