@@ -42,23 +42,29 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 ### 1. Arquitetura e Organização de Computadores
 
-![alt-text]()
+[Introdução à Arquitetura de Computadores]()
+
+[ESD e Descargas Elétricas]()
+
+[Sistemas de Numeração]()
 
 ### 2. Laboratório de Hardware
 
-![alt-text]()
+[Introdução à Hardware]()
 
 ### 3. Língua Portuguesa
 
-![alt-text]()
+[Pontuação]()
 
 ### 4. Lógica de Programação
 
-![alt-text]()
+[Reconhecimento de Voz - I.A. em Python]()
+
+[Instalando Python]()
 
 ### 5. Matemática Discreta
 
-![alt-text]()
+[Introdução à Lógica]()
 
 
 
