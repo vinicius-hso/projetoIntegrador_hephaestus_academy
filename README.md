@@ -27,14 +27,15 @@ Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apres
 
 ## Aplicação
 
-Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário e barra de pesquisa, proporcionando ao nosso cliente total visualização dos itens do carrinho, realização do cadastro de usuários, busca pelos conteúdo de forma prática e muito mais!
+Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário e barra de pesquisa, proporcionando ao nosso cliente total visualização dos itens do carrinho, realização de cadastro de usuários, busca pelos conteúdo comercializados com total praticidade e ...
 
 ## Valores Entregues
 
-- Para esta entrega, foi priorizado o desenvolvimento de conteúdos em formato de vídeo, para complementar o produto/objeto de comercialização de nosso cliente, agregando mais valor ao produto, e atraindo, portanto um maior número de usuários. 
-- Padronizamos o design e realizamos algumas modificções relacionadas a implementação de mais questões nos conteúdos em pdf já desenvolvidos.
+- Para esta entrega, foi priorizado o desenvolvimento de conteúdos em formato de vídeo, para complementar o produto/objeto de comercialização de nosso cliente, agregando mais valor ao produto, e atraindo, portanto, um maior número de usuários. 
 - Desenvolvemos as páginas de login, registre-se, carrinho de compras e configurações de usuário e as implementamos no site. Proporcionando uma melhor interação e visualização do site que será entregue ao cliente em breve.
-- Foi realizado também a implementação do banco de dados, possibilitando um sistema de armazenamento de informações, mantendo os dados organizados, protegidos, atualizados, acrescentados, excluídos e acessados sempre que necessário, devendo corresponder à demanda que a aplicação exige.
+- Foi realizado também a implementação do Banco de Dados, possibilitando um sistema de armazenamento de informações, mantendo os dados organizados, protegidos, atualizados,  sendo possível acrescentar, excluir e acessar sempre que necessário, devendo corresponder à demanda que a aplicação exige.
+- Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
+- Padronizamos o design e realizamos algumas modificções relacionadas a implementação de mais questões nos conteúdos em pdf já desenvolvidos. Melhorando a imagem do produto e da marca.
 
 
 ## Conteúdos em Vídeo
