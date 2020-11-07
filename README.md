@@ -11,7 +11,7 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 - [Caio Augusto Barbosa Vendramim](https://github.com/Tsunoki) - DEV Team
 - [Debora Conceição Faria](https://github.com/deborafaria01) – DEV Team
 - [Gabriel Hiromi Shishido](https://github.com/Gabriel-Shishido) - DEV Team
-- [João Vitor Evaristo da Silva]()
+- [João Vitor Evaristo da Silva](https://github.com/Joaoevr) - DEV Team
 - [Juliana da Glória Francisco](https://github.com/juliana-oss) - DEV Team
 - [Mariana de Souza Assis](https://github.com/mariana299) - DEV Team
 - [Vinicius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso) – Scrum Master
