@@ -23,7 +23,7 @@ Aqui você pode acompanhar como foi e como está sendo cada uma das entregas.
 
 ## Objetivo
 
-Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizamos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento parcial do site.
+Nesta terceira fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizaremos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento parcial do site.
 
 ## Aplicação
 
@@ -35,7 +35,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 -	Desenvolvemos as páginas de login, registre-se, carrinho de compras, configurações de usuário e página geral de conteúdos e as implementamos no site. Proporcionando uma melhor interação e visualização do site que será entregue ao cliente em breve.
 -	Foi realizado também a implementação do Banco de Dados, possibilitando um sistema de armazenamento de informações, mantendo os dados organizados, protegidos, atualizados, sendo possível acrescentar, excluir e acessar sempre que necessário, devendo corresponder à demanda que a aplicação exige.
 -	Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
--	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais questões nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
+-	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais exercícios nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
 
 
 ## Conteúdos em Vídeo
