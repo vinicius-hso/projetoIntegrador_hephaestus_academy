@@ -94,6 +94,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
 
 
+
 ## Conteúdos Didáticos Padronizados em Texto 
 
 **1. Arquitetura e Organização de Computadores**
