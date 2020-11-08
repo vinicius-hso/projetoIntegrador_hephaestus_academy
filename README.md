@@ -79,6 +79,11 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
 
 
+**Carrinho e Pagamento**
+
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Carrinho_de_compras_e_Pagamento.gif)
+
+
 **Login, Interface usuários, Acesso aos conteúdos comprados**
 
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Login_Interface-usuário_Acesso-conteúdos.gif)
