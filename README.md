@@ -59,6 +59,10 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 ![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
 
+### - Vídeo Demonstração Completo
+
+[Link para o YouTube] (https://youtu.be/yC9X4bYuveg)
+
 ## Conteúdos Didáticos em Vídeo
 
 **1. Arquitetura e Organização de Computadores**
@@ -99,11 +103,11 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 **2. Laboratório de Hardware**
 
-[Introdução - Hardware](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Hardware%20-%20Hephaestus%20Academy.pdf)
+[Introdução - Hardware](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Hardware%20-%20Hephaestus%20Academy.pdf)
 
 **3. Língua Inglesa**
 
-[Introdução - Língua Inglesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Li%CC%81ngua%20Inglesa%20-%20Hephaestus%20Academy.pdf)
+[Introdução - Língua Inglesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint1/Conte%C3%BAdos%20em%20texto/Introduc%CC%A7a%CC%83o%20-%20Li%CC%81ngua%20Inglesa%20-%20Hephaestus%20Academy.pdf)
 
 **4. Língua Portuguesa**
 
