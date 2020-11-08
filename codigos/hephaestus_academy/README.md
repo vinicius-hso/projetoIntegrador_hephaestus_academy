@@ -20,9 +20,9 @@ O nome do banco de dados deve necessariamente ter o nome descrito acima para que
 Acesse seu banco de dados criado e clique em "importar". 
 Escolha o arquivo **hephaestus_academy/database/ecomm.sql** mantenha todas as opções default principalemnte a codificação utf-8 e clique em executar.
 
-**5.Acessando o Site:**
+**6.Acessando o Site:**
 Para acessar o site basta digitar o seguinte url em seu navegador: http://localhost/hephaestus_academy
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### DETALHES DE LOGIN: 
 
@@ -35,7 +35,7 @@ Para acessar o site basta digitar o seguinte url em seu navegador: http://localh
 **Password**: Python_eh_legal
 
 Você também poderá criar uma nova conta e utilizar os nomes de usuário e senha que preferir!
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Toda a interface do usuário front e backend já está implemenntada e funcionando.
 
