@@ -37,6 +37,8 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 -	Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
 -	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais exercícios nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
 
+** Cadastro de Usuários**
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
 
 ## Conteúdos em Vídeo
 
