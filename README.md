@@ -37,6 +37,28 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 -	Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
 -	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais exercícios nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
 
+## Demonstração das Páginas do Site
+
+### - Home e Páginas de Conteúdos
+
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Home_e_Conteúdos.gif)
+
+### - Cadastro de Usuários
+
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
+
+### - Carrinho e Pagamento
+
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Carrinho_de_compras_e_Pagamento.gif)
+
+### - Login, Interface Usuários e Acesso aos Conteúdos Comprados
+
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Login_Interface-usuário_Acesso-conteúdos.gif)
+
+### - Barra de Pesquisa
+
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
+
 ## Conteúdos Didáticos em Vídeo
 
 **1. Arquitetura e Organização de Computadores**
@@ -64,29 +86,6 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 **5. Matemática Discreta**
 
 [Introdução à Lógica](https://www.youtube.com/watch?v=3bKErh1nQyo&feature=youtu.be)
-
-
-## Demonstração das Páginas do Site
-
-### - Home e Páginas de Conteúdos
-
-![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Home_e_Conteúdos.gif)
-
-### - Cadastro de Usuários
-
-![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
-
-### - Carrinho e Pagamento
-
-![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Carrinho_de_compras_e_Pagamento.gif)
-
-### - Login, Interface Usuários e Acesso aos Conteúdos Comprados
-
-![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Login_Interface-usuário_Acesso-conteúdos.gif)
-
-### - Barra de Pesquisa
-
-![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
 
 ## Conteúdos Didáticos Padronizados em Texto 
 
