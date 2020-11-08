@@ -61,7 +61,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 ### - Vídeo Demonstração Completo
 
-[Link para o YouTube] (https://youtu.be/yC9X4bYuveg)
+[Link para o YouTube](https://youtu.be/yC9X4bYuveg)
 
 ## Conteúdos Didáticos em Vídeo
 
