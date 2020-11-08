@@ -68,31 +68,25 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 ## Demonstração das Páginas do Site
 
-**Home e Páginas de Conteúdos**
+### Home e Páginas de Conteúdos
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Home_e_Conteúdos.gif)
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Home_e_Conteúdos.gif)
 
+### Cadastro de Usuários
 
-**Cadastro de Usuários**
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
+### Carrinho e Pagamento
 
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Carrinho_de_compras_e_Pagamento.gif)
 
-**Carrinho e Pagamento**
+### Login, Interface Usuários e Acesso aos Conteúdos Comprados
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Carrinho_de_compras_e_Pagamento.gif)
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Login_Interface-usuário_Acesso-conteúdos.gif)
 
+### Barra de Pesquisa
 
-**Login, Interface usuários, Acesso aos conteúdos comprados**
-
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Login_Interface-usuário_Acesso-conteúdos.gif)
-
-
-**Barra de Pesquisa**
-
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
-
-
+![alt-text](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Barra_Pesquisa.gif)
 
 ## Conteúdos Didáticos Padronizados em Texto 
 
