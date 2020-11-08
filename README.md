@@ -66,8 +66,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 [Introdução à Lógica](https://www.youtube.com/watch?v=3bKErh1nQyo&feature=youtu.be)
 
 
-## Demonstração das Páginas do Site: 
-
+## Demonstração das Páginas do Site
 
 **Home e Páginas de Conteúdos**
 
