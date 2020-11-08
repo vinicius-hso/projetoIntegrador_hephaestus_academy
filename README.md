@@ -37,11 +37,6 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 -	Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
 -	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais exercícios nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
 
-## Demonstração das Páginas do Site: 
-
-**Cadastro de Usuários**
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
-
 ## Conteúdos Didáticos em Vídeo
 
 **1. Arquitetura e Organização de Computadores**
@@ -69,6 +64,12 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 **5. Matemática Discreta**
 
 [Introdução à Lógica](https://www.youtube.com/watch?v=3bKErh1nQyo&feature=youtu.be)
+
+
+## Demonstração das Páginas do Site: 
+
+**Cadastro de Usuários**
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
 
 
 ## Conteúdos Didáticos Padronizados em Texto 
