@@ -33,7 +33,7 @@
 					$stmt->execute(['status'=>1, 'id'=>$row['id']]);
 					$output .= '
 						<div class="alert alert-success">
-			                <h4><i class="icon fa fa-check"></i> Success!</h4>
+			                <h4><i class="icon fa fa-check"></i> Conta Ativada com Sucesso!</h4>
 			                Conta ativada - Email: <b>'.$row['email'].'</b>.
 			            </div>
 			            <h4>Você pode <a href="login.php">Entrar</a> ou voltar para a <a href="index.php">Homepage</a>.</h4>
