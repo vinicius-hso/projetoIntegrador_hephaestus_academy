@@ -71,7 +71,7 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e i
 
 **Home e Páginas de Conteúdos**
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Registre_se.gif)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint2/Home_e_Conteúdos.gif)
 
 
 **Cadastro de Usuários**
