@@ -45,7 +45,7 @@
 		       									<h5><a href='product.php?product=".$row['slug']."'>".$highlighted."</a></h5>
 		       								</div>
 		       								<div class='box-footer'>
-		       									<b>&#36; ".number_format($row['price'], 2)."</b>
+		       									<b>R&#36; ".number_format($row['price'], 2)."</b>
 		       								</div>
 	       								</div>
 	       							</div>
