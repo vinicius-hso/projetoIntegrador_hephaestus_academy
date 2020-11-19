@@ -3,7 +3,7 @@
 	
 	<div class="div-footer container py-5">
       <div class="list-unstyled">
-            <a class="text_footer text-muted" href="#">Contato</a>
+            <a class="text_footer text-muted" href="contato.php">Contato</a>
             <a class="text_footer text-muted" href="#">Sobre Nós</a>
           	<a class="text_footer text-muted" href="#">Termos</a>
             <a class="text_footer text-muted" href="#">Política de Privacidade</a>
