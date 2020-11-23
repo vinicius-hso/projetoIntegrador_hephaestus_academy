@@ -1,0 +1,1 @@
+JAVASCRIPt para interface administrador
