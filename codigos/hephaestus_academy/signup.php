@@ -14,76 +14,94 @@
 ?>
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition register-page">
-<div class="register-box">
-  	<?php
-      if(isset($_SESSION['error'])){
-        echo "
-          <div class='callout callout-danger text-center'>
-            <p>".$_SESSION['error']."</p> 
-          </div>
-        ";
-        unset($_SESSION['error']);
-      }
 
-      if(isset($_SESSION['success'])){
-        echo "
-          <div class='callout callout-success text-center'>
-            <p>".$_SESSION['success']."</p> 
-          </div>
-        ";
-        unset($_SESSION['success']);
-      }
-    ?>
-  	<div class="register-box-body">
-    	<p class="login-box-msg">Registre-se como um novo membro</p>
+<?php include 'includes/navbar.php'; ?>
 
-    	<form action="register.php" method="POST">
-          <div class="form-group has-feedback">
-            <input type="text" class="form-control" name="firstname" placeholder="Nome" value="<?php echo (isset($_SESSION['firstname'])) ? $_SESSION['firstname'] : '' ?>" required>
-            <span class="glyphicon glyphicon-user form-control-feedback"></span>
-          </div>
-          <div class="form-group has-feedback">
-            <input type="text" class="form-control" name="lastname" placeholder="Sobrenome" value="<?php echo (isset($_SESSION['lastname'])) ? $_SESSION['lastname'] : '' ?>"  required>
-            <span class="glyphicon glyphicon-user form-control-feedback"></span>
-          </div>
-      		<div class="form-group has-feedback">
-        		<input type="email" class="form-control" name="email" placeholder="Email" value="<?php echo (isset($_SESSION['email'])) ? $_SESSION['email'] : '' ?>" required>
-        		<span class="glyphicon glyphicon-envelope form-control-feedback"></span>
-      		</div>
-          <div class="form-group has-feedback">
-            <input type="password" class="form-control" name="password" placeholder="Senha" required>
-            <span class="glyphicon glyphicon-lock form-control-feedback"></span>
-          </div>
-          <div class="form-group has-feedback">
-            <input type="password" class="form-control" name="repassword" placeholder="Confirme a Senha" required>
-            <span class="glyphicon glyphicon-log-in form-control-feedback"></span>
-          </div>
-	  <div>
-            <input type="checkbox" name="terms_checkbox" id="terms_checkbox" value="terms_checkbox" required>
-            <label for="terms_checkbox">Aceito os Termos de Uso e Políticas de Privacidade</label>
-          </div>
+<div>
+
+  <main role="main">
+
+    <div>
+
+      <div class="register-box">
           <?php
-            if(!isset($_SESSION['captcha'])){
-              echo '
-                <di class="form-group" style="width:100%;">
-                  <div class="g-recaptcha" data-sitekey="6LevO1IUAAAAAFX5PpmtEoCxwae-I8cCQrbhTfM6"></div>
-                </di>
-              ';
+            if(isset($_SESSION['error'])){
+              echo "
+                <div class='callout callout-danger text-center'>
+                  <p>".$_SESSION['error']."</p> 
+                </div>
+              ";
+              unset($_SESSION['error']);
+            }
+
+            if(isset($_SESSION['success'])){
+              echo "
+                <div class='callout callout-success text-center'>
+                  <p>".$_SESSION['success']."</p> 
+                </div>
+              ";
+              unset($_SESSION['success']);
             }
           ?>
-          <hr>
-      		<div class="row">
-    			<div class="col-xs-4">
-          			<button type="submit" class="btn btn-success" name="signup"><i class="fa fa-pencil"></i> Registre-se</button>
-        		</div>
-      		</div>
-    	</form>
-      <br>
-      <a href="login.php">Eu já tenho uma conta</a><br>
-      <a href="index.php"><i class="fa fa-home"></i> Home</a>
-  	</div>
+          <div class="register-box-body">
+            <p class="login-box-msg">Registre-se como um novo membro</p>
+
+            <form action="register.php" method="POST">
+                <div class="form-group has-feedback">
+                  <input type="text" class="form-control" name="firstname" placeholder="Nome" value="<?php echo (isset($_SESSION['firstname'])) ? $_SESSION['firstname'] : '' ?>" required>
+                  <span class="glyphicon glyphicon-user form-control-feedback"></span>
+                </div>
+                <div class="form-group has-feedback">
+                  <input type="text" class="form-control" name="lastname" placeholder="Sobrenome" value="<?php echo (isset($_SESSION['lastname'])) ? $_SESSION['lastname'] : '' ?>"  required>
+                  <span class="glyphicon glyphicon-user form-control-feedback"></span>
+                </div>
+                <div class="form-group has-feedback">
+                  <input type="email" class="form-control" name="email" placeholder="Email" value="<?php echo (isset($_SESSION['email'])) ? $_SESSION['email'] : '' ?>" required>
+                  <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+                </div>
+                <div class="form-group has-feedback">
+                  <input type="password" class="form-control" name="password" placeholder="Senha" required>
+                  <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                </div>
+                <div class="form-group has-feedback">
+                  <input type="password" class="form-control" name="repassword" placeholder="Confirme a Senha" required>
+                  <span class="glyphicon glyphicon-log-in form-control-feedback"></span>
+                </div>
+                <div>
+                  <input type="checkbox" name="terms_checkbox" id="terms_checkbox" value="terms_checkbox" required>
+                  <label for="terms_checkbox">Aceito os <a href="blank.php">Termos de Uso</a> e <a href="blank.php" >Políticas de Privacidade</a></label>
+                </div>
+                <?php
+                  if(!isset($_SESSION['captcha'])){
+                    echo '
+                      <di class="form-group" style="width:100%;">
+                        <div class="g-recaptcha" data-sitekey="6LevO1IUAAAAAFX5PpmtEoCxwae-I8cCQrbhTfM6"></div>
+                      </di>
+                    ';
+                  }
+                ?>
+                <hr>
+                <div class="row">
+                <div class="col-xs-4">
+                      <button type="submit" class="btn btn-success" name="signup"><i class="fa fa-pencil"></i> Registre-se</button>
+                  </div>
+                </div>
+            </form>
+            <br>
+            <a href="login.php">Eu já tenho uma conta</a><br>
+            <a href="index.php"><i class="fa fa-home"></i> Home</a>
+          </div>
+
+      </div>
+
+    </div>
+
+  </main>
+
+  <?php include 'includes/footer.php'; ?>
+
 </div>
-	
+
 <?php include 'includes/scripts.php' ?>
 </body>
 </html>
