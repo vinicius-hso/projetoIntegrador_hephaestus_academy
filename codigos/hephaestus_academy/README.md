@@ -50,11 +50,17 @@ Para acessar o site basta digitar o seguinte url em seu navegador: http://localh
 
 **Password**: Python_eh_legal
 
-
 Você também poderá criar uma nova conta e utilizar os nomes de usuário e senha que preferir!
 
 
-Toda a interface do usuário front e backend já está implemenntada e funcionando.
+##### INFORMAÇÕES DE LOGIN ADMINISTRADOR:
+
+**Username**: admin@admin.com
+
+**Password**: password
+
+
+Toda a interface do usuário e adm front e backend já está implemenntada e funcionando.
 
 
 Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento do código, sinta-se a vontade para nos contatar, que buscaremos uma solução!
