@@ -33,7 +33,7 @@
                     </div>
                     <input type="text" class="form-control pull-right col-sm-8" id="reservation" name="date_range">
                   </div>
-                  <button type="submit" class="btn btn-success btn-sm btn-flat" name="print"><span class="glyphicon glyphicon-print"></span> Imprima</button>
+                  <button type="submit" class="btn btn-success btn-sm btn-flat" name="print"><span class="glyphicon glyphicon-print"></span> Imprimir</button>
                 </form>
               </div>
             </div>
@@ -100,14 +100,12 @@
 
 <script>
 $(function(){
-  moment.locale('pt-br')
+ /** moment.locale('pt-br')*/
   $('#datepicker_add').daterangepicker({
     autoclose: true,
-    format: 'dd-mm-yyyy',
   })
   $('#datepicker_edit').daterangepicker({
     autoclose: true,
-    format: 'dd-mm-yyyy',
   })
 
   //Timepicker
@@ -120,6 +118,29 @@ $(function(){
  "locale": {
         "applyLabel": "Aplicar",
         "cancelLabel": "Cancelar",
+        "daysOfWeek": [
+            "Dom",
+            "Seg",
+            "Ter",
+            "Qua",
+            "Qui",
+            "Sex",
+            "Sab"
+        ],
+        "monthNames": [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro"
+        ],
     }
 });
   //Date range picker with time picker
@@ -139,7 +160,7 @@ $(function(){
       endDate  : moment()
     },
     function (start, end) {
-      $('#daterange-btn span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+      $('#daterange-btn span').html(start.format('D MMMM, YYYY') + ' - ' + end.format('D MMMM, YYYY'))
     }
   )
   
