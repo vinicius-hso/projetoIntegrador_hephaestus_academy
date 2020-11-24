@@ -58,6 +58,10 @@
             <input type="password" class="form-control" name="repassword" placeholder="Confirme a Senha" required>
             <span class="glyphicon glyphicon-log-in form-control-feedback"></span>
           </div>
+	  <div>
+            <input type="checkbox" name="terms_checkbox" id="terms_checkbox" value="terms_checkbox" required>
+            <label for="terms_checkbox">Aceito os Termos de Uso e Políticas de Privacidade</label>
+          </div>
           <?php
             if(!isset($_SESSION['captcha'])){
               echo '
