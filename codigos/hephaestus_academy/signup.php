@@ -69,7 +69,7 @@
                 </div>
                 <div>
                   <input type="checkbox" name="terms_checkbox" id="terms_checkbox" value="terms_checkbox" required>
-                  <label for="terms_checkbox">Aceito os <a href="blank.php">Termos de Uso</a> e <a href="blank.php" >Políticas de Privacidade</a></label>
+                  <label for="terms_checkbox">Aceito os <a href="#">Termos de Uso</a> e <a href="#" >Políticas de Privacidade</a></label>
                 </div>
                 <?php
                   if(!isset($_SESSION['captcha'])){
