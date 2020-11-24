@@ -17,7 +17,6 @@
 /*-------------------Página Sobre nós------------------------*/
 
 /*-------------------Página Contato------------------------*/
-
 .div-contato {
   color: white;
   min-width: 500px;
@@ -42,7 +41,6 @@
 .logo {
   margin: 50px;
 }
-
 /*-------------------Página Contato------------------------*/
 
 .height-adjust{
@@ -3141,6 +3139,7 @@ table.text-center th {
   padding: 20px;
   border-top: 0;
   color: #666;
+  margin-top: 100px;
 }
 .login-box-body .form-control-feedback,
 .register-box-body .form-control-feedback {
