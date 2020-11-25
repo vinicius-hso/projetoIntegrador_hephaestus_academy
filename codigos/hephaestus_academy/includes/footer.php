@@ -5,8 +5,8 @@
       <div class="list-unstyled">
             <a class="text_footer text-muted" href="contato.php">Contato</a>
             <a class="text_footer text-muted" href="sobre_nos.php">Sobre Nós</a>
-          	<a class="text_footer text-muted" href="#">Termos</a>
-            <a class="text_footer text-muted" href="#">Política de Privacidade</a>
+          	<a class="text_footer text-muted" href="termos.php">Termos</a>
+            <a class="text_footer text-muted" href="politicas.php">Política de Privacidade</a>
           
         </div>
   </div>
