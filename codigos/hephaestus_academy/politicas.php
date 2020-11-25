@@ -16,13 +16,20 @@
 		<!-- Aqui começa o texto Sobre Nós -->
 		<div class="box-politicas">
 
-		<h1><b>Políticas de Privacidade</b></h1>
+			<h1><b>Políticas de Privacidade</b></h1>
 			<hr>
 
-			<p style="text-indent: 30px;"><big>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis facilis saepe ipsam, accusantium sed unde aut tempora? Nostrum perferendis asperiores pariatur architecto labore consequatur iure, libero harum voluptates tempora voluptatibus!</big></p>
-			<p style="text-indent: 30px;"><big>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, error! Reiciendis temporibus nobis placeat, molestiae architecto ipsum doloremque cumque velit eveniet sed quae inventore, laborum veniam at mollitia! Maiores, recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptas autem neque eligendi ipsa. Vel debitis odit laborum impedit, repellat possimus aspernatur eaque dignissimos ab id, sequi vitae fuga minus?</big></p>
-			<p style="text-indent: 30px;"><big>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, nisi quia reiciendis amet veritatis ex eligendi quidem inventore assumenda facere, officia sequi, dolorem enim illo doloribus similique eveniet quos quae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ipsum, sunt tempora molestias dolores veniam dignissimos rerum earum omnis eligendi iure ipsam qui totam, suscipit laborum debitis assumenda quae? In.</big></p>
-			<p style="text-indent: 30px;"><big>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat maiores accusamus quasi nisi, necessitatibus, aut suscipit, possimus facilis asperiores quod voluptate minima libero soluta eveniet hic assumenda placeat? Excepturi!</big></p></br>
+			<p style="text-indent: 30px;"><big>A Hephaestus Academy respeita a privacidade individual e valoriza a confiança de seus usuários, 
+				clientes e parceiros. Por esta razão, estamos dispostos a proteger a informação pessoal que venha a compartilhar conosco. 
+				O texto a seguir descreve como utilizamos essa informação. </big></p>
+			<h2><u>Recepção de dados</u></h2>
+			<p style="text-indent: 30px;"><big>Ao nos ceder suas informações pessoais, elas serão acessadas apenas pelos nossos serviços.
+				É considerado informação pessoal tudo que pode ser utilizado para identificar um usuário, como, por exemplo, o nome, endereço 
+				eletrônico, idade, gênero, profissão e os demais dados que podemos necessitar para oferecer nossos serviços ou até para melhorar o 
+				funcionamento do site. Nós não registramos automaticamente as suas informações pessoais, incluindo o seu endereço de IP. O registro 
+				dos endereços IP daqueles que utilizam o nosso site servem apenas para a análise estatística de tráfego. Os dados fornecidos não 
+				serão fornecidos para terceiros sem o seu consentimento, mas podem ser utilizados dentro do site para fins de processamento. </big></p>
+			<br>
         
 	    </div>
 
