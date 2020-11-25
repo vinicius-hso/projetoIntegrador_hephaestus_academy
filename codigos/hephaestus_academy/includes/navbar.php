@@ -69,14 +69,6 @@
             <a href="cart_view.php"><img class="btn_header2 logo_00" src=images/carrinho.png></a>
           </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">Pt <img class="flag_lang" src="images/pt.png"></a>
-            <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">En <img class="flag_lang" src=images/en.png></a>
-            </div>
-          </li>
-
 
           <?php
             if(isset($_SESSION['user'])){
