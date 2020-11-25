@@ -10,7 +10,7 @@
 	<!-- Main content -->
 	<main role="main">
 	    <div class="div-promocao">
-	      <a class="div-promocao" href="#">Na compra de um conteúdo, GANHE UM GRÁTIS JOGO PARA AVALIAR SEUS CONHECIMENTOS!</a>
+	      <a class="div-promocao" href="#">Na compra de um conteúdo, GANHE GRÁTIS UM JOGO PARA AVALIAR SEUS CONHECIMENTOS!</a>
 	    </div>
 	    <!-- Main jumbotron for a primary marketing message or call to action -->
 	    <div class="height-adjust jumbotron-new jumbotron">
