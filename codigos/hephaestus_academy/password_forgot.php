@@ -3,7 +3,7 @@
 <body class="hold-transition login-page">
   <?php include 'includes/navbar.php'; ?>
 
-  <div class="login-box">
+  <div class="height-adjust login-box">
       <?php
         if(isset($_SESSION['error'])){
           echo "

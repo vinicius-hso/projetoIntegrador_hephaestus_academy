@@ -10,7 +10,7 @@
 
 <?php include 'includes/navbar.php'; ?>
 
-<div>
+<div class="height-adjust">
   <main role="main">
     <div>
       <div class="login-box">
@@ -58,9 +58,9 @@
       </div>
     </div>
     
-  </main>
-  <?php include 'includes/footer.php'; ?>	
+  </main>  	
 </div>
+<?php include 'includes/footer.php'; ?>
 <?php include 'includes/scripts.php' ?>
 </body>
 </html>
