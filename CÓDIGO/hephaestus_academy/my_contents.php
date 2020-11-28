@@ -85,9 +85,14 @@ if(!empty($_GET['file']))
 	        										<td><b>".$row2['name']."</b></td>
 	        										<td><img src='".$image2."' width='100%' height='100px' class='thumbnail'></td>
 	        										<td>".$row2['description']."</td>
-	        										<td><a href='my_contents.php?file=".$row2['download']."'>Download</a></td>
+	        										<td><a onclick='return handleClick();'href='my_contents.php?file=".$row2['download']."'>Download</a></td>
 	        									</tr>
+	        									<script>
+              										function handleClick()
+             											{alert('Pirataria é crime! Concordando com nossos termos de uso você se comprometeu a não repassá-lo a terceiros.');}
+            									</script>
 	        								";
+	        							
 	        							}
         							}
 
