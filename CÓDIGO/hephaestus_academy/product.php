@@ -43,7 +43,7 @@
 	<?php include 'includes/navbar.php'; ?>
 	
 	<div class="div-promocao">
-		<a class="div-promocao" href="#">Na compra de um conteúdo, GANHE GRÁTIS UM JOGO PARA AVALIAR SEUS CONHECIMENTOS!</a>
+		<a class="div-promocao" href="promocao.php">Na compra de um conteúdo, GANHE GRÁTIS UM JOGO PARA AVALIAR SEUS CONHECIMENTOS!</a>
 	</div>
 
 	  <div class="height-adjust content-wrapper">
