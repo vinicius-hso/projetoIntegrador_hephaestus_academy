@@ -52,8 +52,8 @@ Lista contendo todas as funcionalidades desejadas para o projeto.
 
 ## Código do Site
 - [Código](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/CÓDIGO/hephaestus_academy)
-Você deve baixar o conteúdo e visualiza-lo via localhost (para realizar este procedimento siga as instruções do README localizado no link)
-Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento do código, sinta-se a vontade para nos contatar, que buscaremos uma solução!
+- Você deve baixar o conteúdo e visualiza-lo via localhost (para realizar este procedimento siga as instruções do README localizado no link)
+- Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento do código, sinta-se a vontade para nos contatar, que buscaremos uma solução!
 
 ## Diagrama "Caso de uso"
 O diagrama descreve a funcionalidade proposta para o sistema que está sendo projetado.
