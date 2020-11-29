@@ -90,11 +90,23 @@ INSERT INTO `details` (`id`, `sales_id`, `product_id`, `quantity`) VALUES
 (14, 11, 7, 1),
 (15, 11, 8, 1),
 (16, 11, 9, 1),
-(17, 11, 10, 1),
-(18, 11, 11, 1),
-(19, 11, 12, 1),
-(20, 11, 13, 1);
-
+(17, 12, 10, 1),
+(18, 12, 11, 1),
+(19, 12, 12, 1),
+(20, 12, 13, 1),
+(21, 13, 1, 1),
+(22, 13, 2, 1),
+(23, 14, 4, 1),
+(24, 14, 5, 1),
+(25, 14, 6, 1),
+(26, 14, 7, 1),
+(27, 15, 8, 1),
+(28, 15, 10, 1),
+(29, 15, 11, 1),
+(30, 15, 12, 1),
+(31, 16, 13, 1),
+(32, 16, 5, 1),
+(33, 17, 13, 1);
 -- --------------------------------------------------------
 
 --
@@ -152,9 +164,15 @@ CREATE TABLE IF NOT EXISTS `sales` (
 --
 
 INSERT INTO `sales` (`id`, `user_id`, `pay_id`, `sales_date`) VALUES
-(9, 2, 'PAY-1RT494832H294925RLLZ7TZA', '2020-11-11'),
+(9, 2, 'PAY-1RT494832H2492D5RLLZ7TZA', '2020-11-29'),
 (10, 2, 'PAY-21700797GV667562HLLZ7ZVY', '2020-11-11'),
-(11, 3, 'PAY-51700797GV667562HLLZ7ZVY', '2020-02-11');
+(11, 3, 'PAY-91700797GV667562HLLZ7ZVY', '2020-11-02'),
+(12, 3, 'PAY-756700797GV66762HFUZ7ZVY', '2020-07-02'),
+(13, 4, 'PAY-517007979487562HLGLZ7ZVY', '2020-08-03'),
+(14, 5, 'PAY-6222SSSSSGV667562HLLZZVY', '2020-09-04'),
+(15, 6, 'PAY-5170079DASD67UTY62HLLZVY', '2020-10-05'),
+(16, 7, 'PAY-7007SDS7GV667562HLLZ7ZVY', '2020-05-05'),
+(17, 8, 'PAY-51700797GV667562YJTHTRVY', '2020-06-06');
 
 -- --------------------------------------------------------
 
@@ -183,10 +201,14 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `type`, `firstname`, `lastname`, `address`, `contact_info`, `photo`, `status`, `activate_code`, `reset_code`, `created_on`) VALUES
-(1, 'admin@admin.com', '$2y$10$0SHFfoWzz8WZpdu9Qw//E.tWamILbiNCX7bqhy3od0gvK5.kSJ8N2', 1, 'Antonio', 'Egydio', '', '', 'egydio.jpg', 1, '', '', '2020-07-06'),
-(2, 'fmasanori@fatec.com', '$2y$10$TT5RPSGDiEP29vyMvo3rv.wMl332lNjJqbZwdnmtV4jlSELWreyl6', 0, 'Fernando', 'Masanori', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'masanori.jpg', 1, 'k8FBpynQfqsv', 'wzPGkX5IODlTYHg', '2020-11-03'),
-(3, 'jean@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Jean', 'Costa', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'jean.jpg', 1, '', '', '2020-11-03');
-
+(1, 'admin@admin.com', '$2y$10$0SHFfoWzz8WZpdu9Qw//E.tWamILbiNCX7bqhy3od0gvK5.kSJ8N2', 1, 'Antonio', 'Egydio', '', '', 'egydio.jpg', 1, '', '', '2020-01-01'),
+(2, 'fmasanori@fatec.com', '$2y$10$TT5RPSGDiEP29vyMvo3rv.wMl332lNjJqbZwdnmtV4jlSELWreyl6', 0, 'Fernando', 'Masanori', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'masanori.jpg', 1, 'k8FBpynQfqsv', 'wzPGkX5IODlTYHg', '2020-01-03'),
+(3, 'jean@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Jean', 'Costa', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'jean.jpg', 1, '', '', '2020-01-03'),
+(4, 'renata@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Renata', 'Fusverk', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'renata.jpg', 1, '', '', '2020-01-01'),
+(5, 'cicero@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Cícero', 'Silva', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'cicero.png', 1, '', '', '2020-01-01'),
+(6, 'antonio_wellington@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Antonio', 'Rios', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'antonio.png', 1, '', '', '2020-11-01'),
+(7, 'valter@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Valter', 'Souza', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'valter.png', 1, '', '', '2020-01-01'),
+(8, 'nilo@fatec.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Nilo', 'Vieira', 'Avenida Cesare Monsueto Giulio Lattes, 1350 Distrito', '55129999999', 'nilo.png', 1, '', '', '2020-01-01');
 --
 -- Indexes for tables
 --
