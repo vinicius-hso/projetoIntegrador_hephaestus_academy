@@ -11,3 +11,9 @@ Nessa pasta você encontra um total de seis quizzes, um para cada matéria de co
 * [Trilha 1 - **gameover.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/gameover.mp3)
 * [Trilha 2 - **happygameover.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/happygameover.mp3)
 * [Trilha 3 - **soundtrack.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/soundtrack.mp3)
+
+Para executá-los é necessário que você tenha instalados os seguintes ítens:
+
+* [**Python 3.7.9**](https://www.python.org/downloads/release/python-379/)
+* [Biblioteca **pygame**](https://www.pygame.org/download.shtml)
+* [Biblioteca **pgzero**](https://www.pygame.org/download.shtml)
