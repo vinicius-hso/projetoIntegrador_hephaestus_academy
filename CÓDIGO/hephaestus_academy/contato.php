@@ -29,7 +29,7 @@
 						<textarea class="form-control" id="exampleFormControlTextarea1" rows="4" placeholder="Fale conosco" required></textarea>
 					</div> 
 					<div class="form-group">
-						<button type="button" class="btn btn-success">Enviar</button>
+						<button type="button" onclick="location.href='index.php'" class="btn btn-success">Enviar</button>
 					</div>
 					<hr>
 					<div id="div-logo">
