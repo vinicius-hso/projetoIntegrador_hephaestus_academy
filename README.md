@@ -10,7 +10,7 @@ Estabelecemos para esta entrega, a aplicação do seguinte card.
 
 Lista de tarefas da sprint por grau de relevância.
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/s_backlog.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/s_backlog01.png)
 
 ## Cards para as Entregas
 
