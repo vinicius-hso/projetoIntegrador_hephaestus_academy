@@ -50,14 +50,6 @@ Lista contendo todas as funcionalidades desejadas para o projeto.
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/p_backlog02.png)
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/p_backlog03.png)
 
-## Código do Site
-- [Código](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/CÓDIGO/hephaestus_academy)
-
-Você deve baixar o conteúdo e visualiza-lo via localhost (para realizar este procedimento siga as instruções do README localizado no link).
-
-Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento do código, sinta-se a vontade para nos contatar, que buscaremos uma solução!
-
-
 ## Diagrama "Caso de uso"
 O diagrama descreve a funcionalidade proposta para o sistema que está sendo projetado.
 
@@ -67,6 +59,17 @@ O diagrama descreve a funcionalidade proposta para o sistema que está sendo pro
 Produto de trabalho da fase de testes e planejamento do projeto.
 
 ![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/Pg%20Inicial%20com%20desconto.png)
+
+
+## Código do Site
+- [Código](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/CÓDIGO/hephaestus_academy)
+
+Você deve baixar o conteúdo e visualiza-lo via localhost (para realizar este procedimento siga as instruções do README localizado no link).
+
+Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento do código, sinta-se a vontade para nos contatar, que buscaremos uma solução!
+
+## Demonstração do Site
+- [Funcionalidades entregues na Sprint 2](https://youtu.be/yC9X4bYuveg)
 
 ## Ferramentas
 Ferramentas e linguagens utilizadas até o presente momento.
