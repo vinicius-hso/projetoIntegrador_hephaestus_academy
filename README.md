@@ -8,7 +8,6 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 **Nossa meta é entregar um site com capacidade de crescimento, atraindo usuários das mais diversas áreas e tornando a marca de nosso cliente referência no mercado acadêmico.**
 
 ## Integrantes
-- [Caio Augusto Barbosa Vendramim](https://github.com/Tsunoki) - DEV Team
 - [Debora Conceição Faria](https://github.com/deborafaria01) – DEV Team
 - [Gabriel Hiromi Shishido](https://github.com/Gabriel-Shishido) - DEV Team
 - [João Vitor Evaristo da Silva](https://github.com/Joaoevr) - DEV Team
@@ -28,8 +27,8 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 ## Cards para as Entregas
 Aqui você pode acompanhar como foi e como está sendo cada umas das entregas.
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/c_01.png)
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/c_02.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/C_01.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/C_02.png)
 
 - [Cards da Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/1) - **Data: 27/09/2020**
 - [Cards da Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/projects/2) - **Data: 17/10/2020**
