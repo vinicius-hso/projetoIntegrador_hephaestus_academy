@@ -92,4 +92,4 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 ![Matemática Discreta](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Matematica.gif)
 
 ## Código completo
-[Hephaestus Academy](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/C%C3%93DIGO)
+[Hephaestus Academy](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/C%C3%93DIGO/hephaestus_academy)
