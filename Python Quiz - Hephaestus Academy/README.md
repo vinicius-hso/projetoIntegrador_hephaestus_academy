@@ -20,3 +20,5 @@ Para executá-los é necessário que você tenha instalados os seguintes ítens:
 
 Os arquivos _**.py**_ devem estar na mesma pasta em que os arquivos _**.mp3**_ para que o jogo rode com a trilha sonora.
 Veja o gif a seguir para rodar o jogo:
+
+![Quiz Game Gif](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Video-Game-Quiz.gif)
