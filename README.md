@@ -70,6 +70,7 @@ Se você encontrar quaisquers erros ou problemas relacionados ao funcionamento d
 
 ## Demonstração do Site
 - [Funcionalidades entregues na Sprint 2](https://youtu.be/yC9X4bYuveg)
+- [Funcionalidades entregues na Sprint 3](https://youtu.be/Cr8yooCzASA)
 
 ## Ferramentas
 Ferramentas e linguagens utilizadas até o presente momento.
