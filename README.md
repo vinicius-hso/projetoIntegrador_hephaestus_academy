@@ -49,20 +49,20 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 
 ## Demonstração do Quiz em Python
 
-### Algoritmos
+### 1. Algoritmos
 ![Quiz Algoritmos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Algoritmos.gif)
 
-### Arquitetura e Organização de Computadores
+### 2. Arquitetura e Organização de Computadores
 ![Quiz Arquitetura e Organização de Computadores](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-AOC.gif)
 
-### Hardware
+### 3. Laboratório de Hardware
 ![Hardware](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Hardware.gif)
 
-### Língua Inglesa
+### 4. Língua Inglesa
 ![Língua Inglesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Video-Game-Quiz.gif)
 
-### Língua Portuguesa
+### 5. Língua Portuguesa
 ![Língua Portuguesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Portugues.gif)
 
-### Matemática Discreta
+### 6. Matemática Discreta
 ![Matemática Discreta](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Matematica.gif)
