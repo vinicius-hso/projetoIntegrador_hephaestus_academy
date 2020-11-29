@@ -34,8 +34,9 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e v
 - Para esta entrega, foi priorizado o desenvolvimento do Plano de Negócios, devido ao fato de ser um documento essencial para a criação de uma empresa. 
 Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empresa, englobando o plano financeiro, plano de marketing etc. 
 
-- Desenvolvemos a página de Configurações do Administrador, contendo funcionalidades 
+- Desenvolvemos a página de Configurações do Administrador, contendo as funcionalidades solicitadas pelo cliente, como por exemplo, relatórios de venda, adicionar e remover conteúdos didáticos, bem como incluir e remover usuários, e sendo possível a visão geral das vendas através de gráficos que podem ser personalizados por períodos que o administrador desejar.
 
 - Desenvolvemos também as páginas de Contato, Sobre Nós, Termos de Uso, Políticas de Privacidade, Página de Promoção, para sanar eventuais dúvidas dos usuários quanto a privacidade, termos de uso, políticas contra pirataria e para qualquer outro tipo de questão entrar em contato com os desenvolvedores da plataforma.
 
 - Foi produzido também um game Quiz para atrair ainda mais usuários, sendo possível o entretenimento e treino quanto ao conhecimento adquirido com os conteúdos didáticos através do game.
+
