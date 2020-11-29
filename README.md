@@ -49,6 +49,7 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 
 ## Demonstração do Quiz em Python
 [Códigos do Quiz](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy)
+
 [Demonstração em Vídeo](https://youtu.be/lC5YLOTKFzI)
 
 ### 1. Algoritmos
