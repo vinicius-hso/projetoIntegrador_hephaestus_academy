@@ -46,9 +46,9 @@ As sprints do projeto estão distribuídas em 4 entregas que serão feitas ao lo
 ## Product Backlog
 Lista contendo todas as funcionalidades desejadas para o projeto.
 
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/01.png)
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/02.png)
-![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/03.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/p_backlog01.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/p_backlog02.png)
+![](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/main/p_backlog03.png)
 
 ## Diagrama "Caso de uso"
 O diagrama descreve a funcionalidade proposta para o sistema que está sendo projetado.
