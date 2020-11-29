@@ -40,6 +40,11 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 
 - Foi produzido também um game Quiz para atrair ainda mais usuários, sendo possível o entretenimento e treino quanto ao conhecimento adquirido com os conteúdos didáticos através do game.
 
+## Plano de Negócios
+![gif-plano-de-negocios](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/video-plano-de-negocios.gif)
+
+[Arquivo em PDF](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Plano%20de%20Nego%CC%81cios%20-%20Hephaestus%20Academy.pdf)
+
 ## Demonstração do Quiz em Python
 
 ### Algoritmos
