@@ -47,14 +47,19 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 
 **Obs.: O Plano de Negócios pode demorar alguns segundos para abrir, em razão do tamanho do arquivo, ou pode haver algum erro na leitura, porém basta atualizar a página.**
 
-## Páginas: Políticas, Termos, Sobre Nós e Contato
+## Demonstração das páginas
+
+### Páginas: Políticas, Termos, Sobre Nós e Contato
 ![gif-das-paginas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/termos_politica_contato.gif)
 
-## Página Promoção
+### Página Promoção
 ![gif-pagina-promocao](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/promocao_quiz.gif)
 
-## Relatório de vendas
+### Relatório de vendas
 ![gif-relatorio](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/relatorio_vendas.gif)
+
+### Cadastro de Conteúdos
+![gif-cadastro-conteudos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/cadastro_conteudos.gif)
 
 ## Demonstração do Quiz em Python
 [Códigos do Quiz](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy)
