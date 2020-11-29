@@ -23,16 +23,19 @@ Aqui você pode acompanhar como foi e como está sendo cada uma das entregas.
 
 ## Objetivo
 
-Nesta quarta e última fase do projeto, nosso propósito consiste em desenvolver e apresentar os conteúdos de Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Portuguesa, Lógica de Programação e Matemática Discreta em formato de vídeo. Além disso, realizaremos o desenvolvimento das páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa em HTML, PHP, CSS e JavaScript. Assim como a implementação do Banco de Dados viabilizando o funcionamento parcial do site.
+Nesta quarta e última fase do projeto, nosso propósito consiste em desenvolver e finalizar o Plano de Negócios da empresa Hephaestus Academy. Além disso, realizamos o desenvolvimento das páginas de Configurações de Administrador, Contato, Sobre Nós, Termos de Uso, Políticas de Privacidade e Página de Promoção. Bem como a produção de games em formato de Quizzes para atrair usuários. E por fim, a finalização estética da plataforma implementando a linguagem CSS.
 
 ## Aplicação
 
-Com as funcionalidades entregues nessa sprint, será possível a navegação e interação pelas páginas de login, registre-se, carrinho de compras, configurações de usuário, página geral de conteúdos e barra de pesquisa. Proporcionando ao nosso cliente total visualização dos itens no carrinho, bem como os valores; realização de cadastro de usuários e alterações necessárias; sendo possível também a visualização de todos os conteúdos, com uma breve descrição e busca pelos conteúdos comercializados com total praticidade. 
+Com as funcionalidades entregues nessa sprint, será possível a navegação e visualização por toda a plataforma, sendo possível a realização de cadastro de um novo usuário, login de um usuário já cadastrado, login do administrador da plataforma e a visualização de relatório de vendas,  a escolha e pesquisa de um conteúdo didático específico, inclusão do produto no carrinho, realização de o pagamento e efetuação de download do produto adquirido. Também é possível a execução do Game Quiz, qual proporciona ao usuário uma experiência interativa e divertida como forma de complementar seus estudos.
 
 ## Valores Entregues
 
--	Para esta entrega, foi priorizado o desenvolvimento de conteúdos em formato de vídeo, para complementar o produto/objeto de comercialização de nosso cliente, agregando mais valor ao produto, e atraindo, portanto, um maior número de usuários.
--	Desenvolvemos as páginas de login, registre-se, carrinho de compras, configurações de usuário e página geral de conteúdos e as implementamos no site. Proporcionando uma melhor interação e visualização do site que será entregue ao cliente em breve.
--	Foi realizado também a implementação do Banco de Dados, possibilitando um sistema de armazenamento de informações, mantendo os dados organizados, protegidos, atualizados, sendo possível acrescentar, excluir e acessar sempre que necessário, devendo corresponder à demanda que a aplicação exige.
--	Desenvolvemos também a barra de pesquisa, que possibilita ao usuário navegar pelos conteúdos, dando praticidade e auxiliando na escolha e compra do produto.
--	Padronizamos o design e realizamos algumas modificações relacionadas a implementação de mais exercícios nos conteúdos em texto já desenvolvidos. Melhorando a imagem do produto e da marca.
+- Para esta entrega, foi priorizado o desenvolvimento do Plano de Negócios, devido ao fato de ser um documento essencial para a criação de uma empresa. 
+Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empresa, englobando o plano financeiro, plano de marketing etc. 
+
+- Desenvolvemos a página de Configurações do Administrador, contendo funcionalidades 
+
+- Desenvolvemos também as páginas de Contato, Sobre Nós, Termos de Uso, Políticas de Privacidade, Página de Promoção, para sanar eventuais dúvidas dos usuários quanto a privacidade, termos de uso, políticas contra pirataria e para qualquer outro tipo de questão entrar em contato com os desenvolvedores da plataforma.
+
+- Foi produzido também um game Quiz para atrair ainda mais usuários, sendo possível o entretenimento e treino quanto ao conhecimento adquirido com os conteúdos didáticos através do game.
