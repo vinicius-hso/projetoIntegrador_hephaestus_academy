@@ -17,3 +17,5 @@ Para executá-los é necessário que você tenha instalados os seguintes ítens:
 * [**Python 3.7.9**](https://www.python.org/downloads/release/python-379/)
 * [Biblioteca **pygame**](https://www.pygame.org/download.shtml)
 * [Biblioteca **pgzero**](https://www.pygame.org/download.shtml)
+
+Os arquivos _**.py**_ deve estar na mesma pasta em que os arquivos _**.mp3**_ para que o jogo rode com trilha sonora.
