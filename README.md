@@ -31,14 +31,14 @@ Com as funcionalidades entregues nessa sprint, será possível a navegação e v
 
 ## Valores Entregues
 
-- Para esta entrega, foi priorizado o desenvolvimento do Plano de Negócios, devido ao fato de ser um documento essencial para a criação de uma empresa. 
+* Para esta entrega, foi priorizado o desenvolvimento do Plano de Negócios, devido ao fato de ser um documento essencial para a criação de uma empresa. 
 Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empresa, englobando o plano financeiro, plano de marketing etc. 
 
-- Desenvolvemos a página de Configurações do Administrador, contendo as funcionalidades solicitadas pelo cliente, como por exemplo, relatórios de venda, adicionar e remover conteúdos didáticos, bem como incluir e remover usuários, e sendo possível a visão geral das vendas através de gráficos que podem ser personalizados por períodos que o administrador desejar.
+* Desenvolvemos as páginas de Contato, Sobre Nós, Termos de Uso, Políticas de Privacidade, Página de Promoção, para sanar eventuais dúvidas dos usuários quanto a privacidade, termos de uso, políticas contra pirataria e para qualquer outro tipo de questão entrar em contato com os desenvolvedores da plataforma.
 
-- Desenvolvemos também as páginas de Contato, Sobre Nós, Termos de Uso, Políticas de Privacidade, Página de Promoção, para sanar eventuais dúvidas dos usuários quanto a privacidade, termos de uso, políticas contra pirataria e para qualquer outro tipo de questão entrar em contato com os desenvolvedores da plataforma.
+* Desenvolvemos também a página de Configurações do Administrador, contendo as funcionalidades solicitadas pelo cliente, como por exemplo, relatórios de venda, adicionar e remover conteúdos didáticos, bem como incluir e remover usuários, e sendo possível a visão geral das vendas através de gráficos que podem ser personalizados por períodos que o administrador desejar.
 
-- Foi produzido também um game Quiz para atrair ainda mais usuários, sendo possível o entretenimento e treino quanto ao conhecimento adquirido com os conteúdos didáticos através do game.
+* Foi produzido também um game Quiz para atrair ainda mais usuários, sendo possível o entretenimento e treino quanto ao conhecimento adquirido com os conteúdos didáticos através do game.
 
 ## Plano de Negócios
 ![gif-plano-de-negocios](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/video-plano-de-negocios.gif)
@@ -49,22 +49,22 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 
 ## Demonstração das páginas
 
-### Páginas: Políticas, Termos, Sobre Nós e Contato
+### * Páginas: Políticas, Termos, Sobre Nós e Contato
 ![gif-das-paginas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/termos_politica_contato.gif)
 
-### Página Promoção
+### * Página Promoção
 ![gif-pagina-promocao](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/promocao_quiz.gif)
 
-### Relatório de vendas
+### * Relatório de vendas
 ![gif-relatorio](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/relatorio_vendas.gif)
 
-### Cadastro de Conteúdos
+### * Cadastro de Conteúdos
 ![gif-cadastro-conteudos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/cadastro_conteudos.gif)
 
-### Usuários cadastrados
+### * Usuários cadastrados
 ![gif-usuarios](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/usuarios_cadastrados.gif)
 
-### Cadastro de categorias
+### * Cadastro de categorias
 ![gif-cadastro-categoria](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/cadastro_categoria.gif)
 
 ## Demonstração do Quiz em Python
