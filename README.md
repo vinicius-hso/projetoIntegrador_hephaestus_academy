@@ -42,6 +42,7 @@ As sprints do projeto estão distribuídas em 4 entregas que serão feitas ao lo
 - [Entrega 1 – Sprint 0](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint0)
 - [Entrega 2 – Sprint 1](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint1)
 - [Entrega 3 – Sprint 2](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint2)
+- [Entrega 4 – Sprint 3](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3)
 
 ## Product Backlog
 Lista contendo todas as funcionalidades desejadas para o projeto.
