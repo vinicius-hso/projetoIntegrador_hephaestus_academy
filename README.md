@@ -52,17 +52,20 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 ### Páginas: Políticas, Termos, Sobre Nós e Contato
 ![gif-das-paginas](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/termos_politica_contato.gif)
 
-### Página Promoção
+### *Página Promoção
 ![gif-pagina-promocao](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/promocao_quiz.gif)
 
-### Relatório de vendas
+### *Relatório de vendas
 ![gif-relatorio](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/relatorio_vendas.gif)
 
-### Cadastro de Conteúdos
+### *Cadastro de Conteúdos
 ![gif-cadastro-conteudos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/cadastro_conteudos.gif)
 
-### Usuários cadastrados
-![guf-usuarios](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/usuarios_cadastrados.gif)
+### *Usuários cadastrados
+![gif-usuarios](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/usuarios_cadastrados.gif)
+
+### *Cadastro de categorias
+![gif-cadastro-categoria](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/cadastro_categoria.gif)
 
 ## Demonstração do Quiz em Python
 [Códigos do Quiz](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/tree/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy)
