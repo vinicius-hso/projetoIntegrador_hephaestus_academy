@@ -27,7 +27,7 @@ Nesta quarta e última fase do projeto, nosso propósito consiste em desenvolver
 
 ## Aplicação
 
-Com as funcionalidades entregues nessa sprint, será possível a navegação e visualização por toda a plataforma, sendo possível a realização de cadastro de um novo usuário, login de um usuário já cadastrado, login do administrador da plataforma e a visualização de relatório de vendas,  a escolha e pesquisa de um conteúdo didático específico, inclusão do produto no carrinho, realização de o pagamento e efetuação de download do produto adquirido. Também é possível a execução do Game Quiz, qual proporciona ao usuário uma experiência interativa e divertida como forma de complementar seus estudos.
+Com as funcionalidades entregues nessa sprint, será possível a navegação e visualização por toda a plataforma, sendo possível a realização de cadastro de um novo usuário, login de um usuário já cadastrado, login do administrador da plataforma e a visualização de relatório de vendas,  a escolha e pesquisa de um conteúdo didático específico, inclusão do produto no carrinho, realização do pagamento e efetuação de download do produto adquirido. Também é possível a execução do Game Quiz, qual proporciona ao usuário uma experiência interativa e divertida como forma de complementar seus estudos.
 
 ## Valores Entregues
 
