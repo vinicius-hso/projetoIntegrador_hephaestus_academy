@@ -45,3 +45,17 @@ Um Plano de Negócios é um projeto/documentação sobre o funcionamento da empr
 ### Algoritmos
 ![Quiz Algoritmos](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Algoritmos.gif)
 
+### Arquitetura e Organização de Computadores
+![Quiz Arquitetura e Organização de Computadores](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-AOC.gif)
+
+### Hardware
+![Hardware](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Hardware.gif)
+
+### Língua Inglesa
+![Língua Inglesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Video-Game-Quiz.gif)
+
+### Língua Portuguesa
+![Língua Portuguesa](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Portugues.gif)
+
+### Matemática Discreta
+![Matemática Discreta](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Game-Quiz-Matematica.gif)
