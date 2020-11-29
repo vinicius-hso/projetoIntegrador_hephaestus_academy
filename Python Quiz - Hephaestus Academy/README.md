@@ -2,12 +2,12 @@
 
 Nessa pasta você encontra um total de seis quizzes, um para cada matéria de conteúdo desenvolvido ao longo do Projeto Integrador. Os quizzes desenvolvidos em Python utilizando as bibliotecas _**pygame**_ e _**pgzero**_ e também contam com uma trilha sonora desenvolvida especialmente para o projeto.
 
-* [Quiz de **Algoritmos**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Algoritmos_quiz.py)
-* [Quiz de **Arquitetura e Organização de Computadores**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/AOC_quiz.py)
-* [Quiz de **Hardware**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Hardware_quiz.py)
-* [Quiz de **Língua Inglesa**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Ingles_quiz.py)
-* [Quiz de **Matemática**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Matema%CC%81tica_quiz.py)
-* [Quiz de **Língua Portuguesa**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Portugues_quiz.py)
+* [Quiz **Algoritmos**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Algoritmos_quiz.py)
+* [Quiz **Arquitetura e Organização de Computadores**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/AOC_quiz.py)
+* [Quiz **Hardware**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Hardware_quiz.py)
+* [Quiz **Língua Inglesa**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Ingles_quiz.py)
+* [Quiz **Matemática**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Matema%CC%81tica_quiz.py)
+* [Quiz **Língua Portuguesa**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Portugues_quiz.py)
 * [Trilha 1 - **gameover.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/gameover.mp3)
 * [Trilha 2 - **happygameover.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/happygameover.mp3)
 * [Trilha 3 - **soundtrack.mp3**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/soundtrack.mp3)
