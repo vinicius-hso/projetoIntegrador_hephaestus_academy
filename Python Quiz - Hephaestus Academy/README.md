@@ -25,6 +25,6 @@ Os arquivos _**.py**_ devem estar na mesma pasta em que os arquivos _**.mp3**_ p
 1. Abra o arquivo _**.py**_ com o **IDLE**
 2. Clique em **Run** > **Run Module** ou use o atalho **F5**
 
-Veja o gif a seguir para rodar o jogo:
+Veja o gif a seguir para rodar o jogo ou se preferir acesse o [vídeo demonstrativo](https://youtu.be/lC5YLOTKFzI):
 
 ![Quiz Game Gif](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Video-Game-Quiz.gif)
