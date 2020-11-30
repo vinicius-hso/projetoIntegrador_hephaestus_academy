@@ -1,6 +1,6 @@
 # Python Quiz
 
-Nessa pasta você encontra um total de seis quizzes, um para cada matéria de conteúdo desenvolvido ao longo do Projeto Integrador. Os quizzes desenvolvidos em Python utilizando as bibliotecas _**pygame**_ e _**pgzero**_ e também contam com uma trilha sonora desenvolvida especialmente para o projeto.
+Nessa pasta você encontra um total de seis quizzes, um para cada matéria de conteúdo desenvolvido ao longo do Projeto Integrador. Os quizzes desenvolvidos em Python utilizam as bibliotecas _**pygame**_ e _**pgzero**_ e também contam com uma trilha sonora desenvolvida especialmente para o projeto. Como bibliografia de apoio para o desenvolvimento foi utilizado o livro **Coding Games in Python - Dorling Kindersley Limited**.
 
 * [Quiz **Algoritmos**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/Algoritmos_quiz.py)
 * [Quiz **Arquitetura e Organização de Computadores**](https://github.com/vinicius-hso/projetoIntegrador_hephaestus_academy/blob/sprint3/Python%20Quiz%20-%20Hephaestus%20Academy/AOC_quiz.py)
