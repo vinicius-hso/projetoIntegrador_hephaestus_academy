@@ -1,5 +1,5 @@
 # Projeto Integrador - Hephaestus Academy
-Projeto sendo desenvolvido pelo 1º termo do curso de Análise e Desenvolvimento de Sistemas, FATEC - Faculdade de Tecnologia de São José dos Campos.
+Projeto desenvolvido pela **Equipe Phoenix**, Turma B do 1º semestre do curso de Análise e Desenvolvimento de Sistemas, FATEC - Faculdade de Tecnologia de São José dos Campos.
 
 ## Objetivo
 Desenvolver um site para venda de conteúdos didáticos. Os conteúdos abordados serão Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Inglesa, Língua Portuguesa: Pontuação e Concordância, Lógica de Programação e Matemática Discreta.  
