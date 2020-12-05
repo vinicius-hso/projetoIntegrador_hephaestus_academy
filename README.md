@@ -9,11 +9,17 @@ Nosso site contará com algumas aplicabilidades essenciais para o administrador,
 
 ## Integrantes
 - [Debora Conceição Faria](https://github.com/deborafaria01) – DEV Team
+  - [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 - [Gabriel Hiromi Shishido](https://github.com/Gabriel-Shishido) - DEV Team
+  - [LinkedIn](https://www.linkedin.com/in/gabriel-hiromi-shishido-55b0621ba/)
 - [João Vitor Evaristo da Silva](https://github.com/Joaoevr) - DEV Team
+  - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-silva-261a471b9/)
 - [Juliana da Glória Francisco](https://github.com/juliana-oss) - DEV Team
+  - [LinkedIn](https://www.linkedin.com/in/juliana-francisco-433a4492/)
 - [Mariana de Souza Assis](https://github.com/mariana299) - DEV Team
+  - [LinkedIn](https://www.linkedin.com/in/mariana-assis-23514061/)
 - [Vinicius Henrique dos Santos de Oliveira](https://github.com/vinicius-hso) – Scrum Master
+  - [LinkedIn](https://www.linkedin.com/in/viniciushso/)
 
 ## Disciplinas Integradas
 - Administração Geral - Prof. Cícero Soares da Silva
